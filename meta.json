@@ -2,9 +2,14 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-        {
-            "id": "1.0.0",
-            "releasedAt": 1751780308313
+    {
+      "id": "0.0.1",
+      "releasedAt": 1698379200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/releases/tag/Beta-0.0.1"
         }
+      },
+      "updateType": "major"
     ]
 }
